@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+h2{
+    font-size: 36px;
+}
+h1, h2{
+    color: white;
+}
+div{
+    color: teal;
+}
+.video{
+    text-align: center !important;
+}
+p{
+    color: grey;
+    font-size: 28 !important;
+}
